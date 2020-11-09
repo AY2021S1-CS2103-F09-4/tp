@@ -267,7 +267,7 @@ For example, both of the following commands are valid:
 
 Given below is an activity diagram describing how a user input for finding clients is parsed. The process for parsing commands for finding orders
 is also the same, albeit with different tokens and different predicates. Following the diagram, an example usage scenario is also given.
-![Activity diagram of FindCommandParser](images/FindActivityDiagram.png)
+<img src = "images/OrderSequenceDiagram.png" height = "500">
 
 Step 1. The user launches LogOnce and sees their list of clients. In this scenario, LogOnce has one order with description "iPhone", date "2020-10-23", address
 "Pasir Ris" and an associated client with ID #00032.
